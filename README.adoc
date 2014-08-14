@@ -5,6 +5,7 @@ awesome-asciidoctor
 - http://lordofthejars.github.io/bjug-asciidoctor/slides.html#1.0[bjug-asciidoctor]
 
 == Articles
-- http://www.lordofthejars.com/2014/01/dry-with-examples-on-documentation.html
-- https://coderwall.com/p/gt2t-g[using in java]
+- http://www.lordofthejars.com/2014/01/dry-with-examples-on-documentation.html[
+DRY with examples on documentation. Include Java Extension for Asciidoctor.]
+- https://coderwall.com/p/gt2t-g[Enjoy the magic of Asciidoctor in Java]
 
