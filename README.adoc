@@ -1,0 +1,10 @@
+awesome-asciidoctor
+===================
+
+== Slides
+- http://lordofthejars.github.io/bjug-asciidoctor/slides.html#1.0[bjug-asciidoctor]
+
+== Articles
+- http://www.lordofthejars.com/2014/01/dry-with-examples-on-documentation.html
+- https://coderwall.com/p/gt2t-g[using in java]
+
