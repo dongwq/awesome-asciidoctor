@@ -9,3 +9,5 @@ awesome-asciidoctor
 DRY with examples on documentation. Include Java Extension for Asciidoctor.]
 - https://coderwall.com/p/gt2t-g[Enjoy the magic of Asciidoctor in Java]
 
+== Projects
+- https://github.com/aim42/aim42[aim42 method guide] 
