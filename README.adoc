@@ -1,6 +1,13 @@
 awesome-asciidoctor
 ===================
 
+== Cheatsheet
+- http://powerman.name/doc/asciidoc-compact.html[sciidoc cheatsheet (compact)]
+- http://xpt.sourceforge.net/techdocs/nix/tool/asciidoc-syn/ascs01-AsciiDocMarkupSyntaxQuickSummary/single/[
+AsciiDoc Markup Syntax Quick Summary]
+- https://github.com/asciidoctor/asciidoctor/wiki[asciidoctor project wiki]
+- http://en.wikipedia.org/wiki/AsciiDoc[AsciiDoc wiki]
+
 == Slides
 - http://lordofthejars.github.io/bjug-asciidoctor/slides.html#1.0[bjug-asciidoctor]
 
